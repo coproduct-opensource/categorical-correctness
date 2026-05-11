@@ -4,6 +4,8 @@ A 50-line probe that measures whether your LLM is *functorial*. Run it on Colab 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/coproduct-opensource/categorical-correctness/blob/main/categorical_compositionality_probe.ipynb)
 
+> **New here?** Read **[INTRO.md](./INTRO.md)** first — a patient walkthrough of the problem, the existing measurement toolkit, and what the categorical move actually buys you. No prior category theory required. Then come back here for the technical pitch.
+
 ## Who this is for
 
 1. **Practicing engineers** shipping LLM features into production, who are tired of "feels-fine" eval loops and want a 5-minute correctness signal that means something specific.
